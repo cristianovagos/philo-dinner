@@ -3,8 +3,7 @@ Operative Systems Delivery - Philosophers Dinner Problem
 
 
 ## Developers
-Cristiano Vagos (myself)
-João Pedro Fonseca (https://github.com/Jpfonseca/)
+Cristiano Vagos (myself), João Pedro Fonseca (https://github.com/Jpfonseca/)
 
 
 ###Philosopher
