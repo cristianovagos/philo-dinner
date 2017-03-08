@@ -2,6 +2,10 @@
 Operative Systems Delivery - Philosophers Dinner Problem
 
 
+## Developers
+Cristiano Vagos (myself)
+João Pedro Fonseca (https://github.com/Jpfonseca/)
+
 
 ###Philosopher
 
@@ -23,3 +27,7 @@ The dinning room is the most important part in this "world" , it holds all the a
 Devise a possible solution and write a simulation for this problem, one using POSIX threads, mutexes and condition variables.
 The solution should be implemented in C/C++ and be run in Linux.
 A logging file, which describes the dynamics of the simulation in a clear and precise way, must be produced.
+
+
+##About
+This project and delivery was made for the subject SO (Sistemas de Operação) for our course. It was completed but we know that there's some bugs and fixes to be made, however for the scheduled deadline this was what we could do.
